@@ -132,10 +132,3 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
   * G - Ignore this column
   * H - Notes about the players (only the first three rounds feature notes about players)
 * All data in a given row relates to the player identified in column `D`.
-
-## Output Suggestions
-* Generally speaking, the output should be very detailed:  Calling out any interesting insights from the notes provided.
-* The output should always include a fantasy impact analysis.
-* The detailed notes along with metrics should be used to justify the suggestion.  A "why draft" section would be helpful in most cases.
-* Including a summary of the ranking details would also be helpful
-* Call out strengths and any weaknesses or concerns that are known about each player suggested
