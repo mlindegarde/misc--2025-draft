@@ -3,8 +3,8 @@
 ## Instructions
 When doing any sort of analysis, always follow these general rules:
 1. `2025-my-active-roster.csv` should be used to learn about my current team roster.
-2. `2025-fantasy-pros-rookie-rankings.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.
-3. Use `2025-mel-kiper -1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `2025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv`.
+2. `2025-fantasy-pros-rookie-rankings.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.  For example, Ashton Jeanty and Omarion Hamption are listed as the top two picks.  It is not likely they will still be present when it is my turn to pick.
+3. Use `2025-mel-kiper -1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `2025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv` by aggregating the data and taking into consideration the delta between the aggregated data and the suggest ranking in `2025-fantasy-pros-rookie-rankings.csv`.
 4. Use the notes column from `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to understand the reasoning behind the pick.  This information should be strongly considered when identifying the potential fantasy impact a player might have.
 5. Use `2025-pff-7-rounds.csv` when looking for picks beyond the first round.
 6. Reference the `Glossary` section below to identify unknown terms
@@ -133,6 +133,7 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
 * All data in a given row relates to the player identified in column `D`.
 
 ## Output Suggestions
+* Generally speaking, the output should be very detailed:  Calling out any interesting insights from the notes provided.
 * The output should always include a fantasy impact analysis.
 * The detailed notes along with metrics should be used to justify the suggestion.  A "why draft" section would be helpful in most cases.
 * Including a summary of the ranking details would also be helpful
