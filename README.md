@@ -1,4 +1,21 @@
-# Instructions
+# 2025 LFFL Draft Research
+
+## Instructions
+When doing any sort of analysis, always follow these general rules:
+1. `2025-my-active-roster.csv` should be used to learn about my current team roster.
+2. `2025-fantasy-pros-rookie-rankings.csv` should always be used to determine the most probable draft posistion for each player in the LFFL draft.
+3. Use `2025-mel-kiper -1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, and `2025-fantasy-pros-1st-round-with-trades.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv`.
+4. Use `
+
+
+
+
+2025-my-active-roster.csv
+
+
+
+
+
 * Always use the following files when doing any analysis:
   * 2025-roster-review(Active Roster Review).csv
   * 2025-roster-review(FP Rookie Rankings).csv
