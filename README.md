@@ -1,27 +1,34 @@
-# 2025 Draft Data
+# Instructions
+* Use the files found in this repository to analyze the rookies available in the 2025 draft, but be sure to take the following details into account:
+  * Always consider details about my team when analyzing the data, these details are found in the `2025-roster-review(Active Roster Review).csv`.
+  * In fantasy football we are only interested in QB, WR, RB, and TE
+* The notes provided about each player should be aggregated and analyzed to identify potential sleepers
+* A "sleeper" is a player that is picked later in the draft that is likely to outperform players picked before them
+
+# Description of files in the repository
 
 2025-roster-review(Active Roster Review).csv
-* This file contains a breakdown of my team.  The players are ranked by dynsasty value.
+* This file contains a breakdown of my team.  The players are ranked by dynasty value.
 * This file should be used as a basis when making decisions about who I should draft.
-* Generally, this breakdown shows that I need to improve at wide reciever (WR) and tight end (TE); however, I strongly value running backs (RB) and if a good one is avialable I would probably take the RB over a TE and most likely over a WR unless the WR is very good.
+* Generally, this breakdown shows that I need to improve at wide receiver (WR) and tight end (TE); however, I strongly value running backs (RB) and if a good one is available I would probably take the RB over a TE and most likely over a WR unless the WR is very good.
 * Column Details
   * A - Rank on my team (If this column does not have a number, that means the player is not on my team, but I have interest in them)
   * B - Player name
   * C - Dynasty Nerds ranking for the player for their specific position
   * D - Ignore this column
-  * E - ESPN ranking for the player for thier specific position
+  * E - ESPN ranking for the player for their specific position
   * F - ESPN overall ranking for the player
-  * G - PFF ranking for the player for thier specific position
+  * G - PFF ranking for the player for their specific position
   * H - PFF overall ranking for the player
   * I - Ignore this column
   * J - FantasyPros ranking for the player for their specific position
   * K - FantasyPros overall ranking for the player
-  * L - FantasyPros tier for that lpayer for their specific position
+  * L - FantasyPros tier for that player for their specific position
 
 2025-roster-review(FP Rookie Rankings).csv
-* This file contains an orderd ranking of the rookies available in the 2025 NFL draft from a dynasty fantasy football perspective.
+* This file contains an ordered ranking of the rookies available in the 2025 NFL draft from a dynasty fantasy football perspective.
 * Players are valued differently in fantasy football than they are in the real NFL.
-* Fantsy football is only interested in quarterbacks (QB or Q), running backs (RB or HB), wide recievers (WR), and tighet ends (TE).
+* Fantasy football is only interested in quarterbacks (QB or Q), running backs (RB or HB), wide receivers (WR), and tight ends (TE).
 * Column Details
   * A - Overall dynasty fantasy football rank for 2025 drafts
   * B - Player name
