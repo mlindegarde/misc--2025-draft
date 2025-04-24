@@ -6,9 +6,9 @@
   * 2025-roster-review(NFL - 1 Rnd).csv
   * 2025-roster-review(Mel Kiper - 1 Rnd).csv
   * 2025-roster-review(FP - 1 Rnd (Trades)).csv
-* Use the files found in this repository to analyze the rookies available in the 2025 draft, but be sure to take the following details into account:
-  * Always consider details about my team when analyzing the data, these details are found in the `2025-roster-review(Active Roster Review).csv`.
-  * In fantasy football we are only interested in QB, WR, RB, and TE
+* When determining which players might still be available when making my picks, give the rankings found in `2025-roster-review(FP Rookie Rankings).csv` more weight than the other rankings.
+* Always consider details about my team when analyzing the data, these details are found in the `2025-roster-review(Active Roster Review).csv`.
+* In fantasy football we are only interested in QB, WR, RB, and TE
 * The notes provided about each player should be aggregated and analyzed to identify potential sleepers
 * A "sleeper" is a player that is picked later in the draft that is likely to outperform players picked before them
 
