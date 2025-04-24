@@ -2,23 +2,86 @@
 
 2025-roster-review(Active Roster Review).csv
 * This file contains a breakdown of my team.  The players are ranked by dynsasty value.
-* If a player does not have a number in column `A`, that means the player is not currently on my team, but I am interested in that player.  In most cases, these are rookies available in this year's NFL draft.
+* This file should be used as a basis when making decisions about who I should draft.
+* Generally, this breakdown shows that I need to improve at wide reciever (WR) and tight end (TE); however, I strongly value running backs (RB) and if a good one is avialable I would probably take the RB over a TE and most likely over a WR unless the WR is very good.
+* Column Details
+  * A - Rank on my team (If this column does not have a number, that means the player is not on my team, but I have interest in them)
+  * B - Player name
+  * C - Dynasty Nerds ranking for the player for their specific position
+  * D - Ignore this column
+  * E - ESPN ranking for the player for thier specific position
+  * F - ESPN overall ranking for the player
+  * G - PFF ranking for the player for thier specific position
+  * H - PFF overall ranking for the player
+  * I - Ignore this column
+  * J - FantasyPros ranking for the player for their specific position
+  * K - FantasyPros overall ranking for the player
+  * L - FantasyPros tier for that lpayer for their specific position
 
 2025-roster-review(FP Rookie Rankings).csv
-* This file contains an orderd ranking of the rookies available in teh 2025 NFL draft from a dynasty fantasy football perspective.
+* This file contains an orderd ranking of the rookies available in the 2025 NFL draft from a dynasty fantasy football perspective.
 * Players are valued differently in fantasy football than they are in the real NFL.
 * Fantsy football is only interested in quarterbacks (QB or Q), running backs (RB or HB), wide recievers (WR), and tighet ends (TE).
+* Column Details
+  * A - Overall dynasty fantasy football rank for 2025 drafts
+  * B - Player name
+  * C - Position the player plays
+  * D - Highest possible draft position
+  * E - Lowest possible draft position
+  * F - Average draft position
+  * G - Standard deviation
+* All data in a given row relates to the player identified in column `B`.
 
 2025-roster-review(Mel Kiper - 1 Rnd).csv
 * This file contains Mel Kiper's analysis of the first rounds picks in the NFL draft.
+* Column Details
+  * A - Overall expected pick (across all rounds of the draft)
+  * B - Expected pick within a single round
+  * C - The team that is expected to draft the player
+  * D - The player's name
+  * E - The player's position
+  * F - The college the player attended
+  * G - Ignore this column
+  * H - Ignore this column
+* All data in a given row relates to the player identified in column `D`.
 
 2025-roster-review(FP - 1 Rnd (Trades)).csv
 * This file contains Fantasy Pro's analysis of the first rounds picks in the NFL draft.
 * For this mock draft, they took into consideration potential trades that NFL team might make.
+* Column Details
+  * A - Overall expected pick (across all rounds of the draft)
+  * B - Expected pick within a single round
+  * C - The team that is expected to draft the player
+  * D - The player's name
+  * E - The player's position
+  * F - The college the player attended
+  * G - Ignore this column
+  * H - Notes about the players
+* All data in a given row relates to the player identified in column `D`.
 
 2025-roster-review(NFL - 1 Rnd).csv
 * This file contains NFL.com's analysis of the first rounds picks in the NFL draft.
+* Column Details
+  * A - Overall expected pick (across all rounds of the draft)
+  * B - Expected pick within a single round
+  * C - The team that is expected to draft the player
+  * D - The player's name
+  * E - The player's position
+  * F - The college the player attended
+  * G - Ignore this column
+  * H - Notes about the players
+* All data in a given row relates to the player identified in column `D`.
 
 2025-roster-review(PFF - 7 Rnds).csv
 * This file contains Pro Football Focus's analysis of all seven rounds of the NFL draft.
 * Not that many rookies with a potential impact will be drafted in the first round, so we need to also consider rounds 2 - 7.
+  * Column Details
+  * A - Overall expected pick (across all rounds of the draft)
+  * B - Expected pick within a single round
+  * C - The team that is expected to draft the player
+  * D - The player's name
+  * E - The player's position
+  * F - The college the player attended
+  * G - Ignore this column
+  * H - Notes about the players (only the first three rounds feature notes about players)
+* All data in a given row relates to the player identified in column `D`.
