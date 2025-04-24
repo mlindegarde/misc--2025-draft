@@ -1,4 +1,11 @@
 # Instructions
+* Always use the following files when doing any analysis:
+  * 2025-roster-review(Active Roster Review).csv
+  * 2025-roster-review(FP Rookie Rankings).csv
+  * 2025-roster-review(PFF - 7 Rnds).csv
+  * 2025-roster-review(NFL - 1 Rnd).csv
+  * 2025-roster-review(Mel Kiper - 1 Rnd).csv
+  * 2025-roster-review(FP - 1 Rnd (Trades)).csv
 * Use the files found in this repository to analyze the rookies available in the 2025 draft, but be sure to take the following details into account:
   * Always consider details about my team when analyzing the data, these details are found in the `2025-roster-review(Active Roster Review).csv`.
   * In fantasy football we are only interested in QB, WR, RB, and TE
