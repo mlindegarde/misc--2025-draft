@@ -5,8 +5,11 @@
 * The notes provided about each player should be aggregated and analyzed to identify potential sleepers
 * A "sleeper" is a player that is picked later in the draft that is likely to outperform players picked before them
 
-# Description of files in the repository
+# Draft Details
+* The rookie draft for my dynasty fantasy football league is 4 rounds long with 6 pick in each round
+* I have the 5th, 7th, 17th, and 20th picks in the draft
 
+# Description of files in the repository
 2025-roster-review(Active Roster Review).csv
 * This file contains a breakdown of my team.  The players are ranked by dynasty value.
 * This file should be used as a basis when making decisions about who I should draft.
