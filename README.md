@@ -1,6 +1,6 @@
 # 2025 LFFL Draft Research
 
-## Instructions
+## GenAI Instructions
 When doing any sort of analysis, always follow these general rules:
 1. `2025-my-active-roster.csv` should be used to learn about my current team roster.
 2. `2025-fantasy-pros-rookie-rankings.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.  For example, Ashton Jeanty and Omarion Hamption are listed as the top two picks.  It is not likely they will still be present when it is my turn to pick.
