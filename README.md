@@ -7,7 +7,7 @@ When doing any sort of analysis, always follow these general rules:
 3. Use `2025-mel-kiper -1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `2025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv` by aggregating the data and taking into consideration the delta between the aggregated data and the suggest ranking in `2025-fantasy-pros-rookie-rankings.csv`.
 4. Use the notes column from `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to understand the reasoning behind the pick.  This information should be strongly considered when identifying the potential fantasy impact a player might have.
 5. Use `2025-pff-7-rounds.csv` when looking for picks beyond the first round.
-6. Use `2025-available-2025-05-23all.csv` to see how any rookie suggestion compares to the available veterans
+6. Use `2025-available-2025-05-23-all.csv` to see how any rookie suggestion compares to the available veterans
 7. Reference the `Glossary` section below to identify unknown terms
 8. Use the `Positions` section below to understand the role each position plays in fantasy football
 9. Refer to the `League Format` section to better understand the league rules that will impact draft value of each player.
@@ -51,7 +51,7 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
 * With my last pick I like to look for a sleeper pick.
 
 ## Description of files in the repository
-`2025-available-2025-05-23all.csv`
+`2025-available-2025-05-23-all.csv`
 * This file contains a list of the top 160 players available for draft in both the rookie and veteran drafts
 * The player rankings are based on ADP as of 05/23/2025
 * This file provides insight into how rookies are ranked against the available veterans
