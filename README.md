@@ -36,17 +36,16 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
 * Each team can have up to five rookies on their taxi squad.
 
 ## LFFL Rookie Draft Format
-* The LFFL rookie draft is 4 rounds long.
+* The LFFL rookie draft is 4 rounds long:  Each round has 6 picks.
 * Each manager starts with one pick per round; however, this can change as a result of trades.
 * I have the 5th, 7th, 17th, and 20th picks in the 2025 LFFL Rookie Draft.
 * The other managers in the league have a tendancy to draft players from Ohio State.
 
 ## LFFL Veteran Draft Format
-* The LFFL rookie draft is 2 rounds long.
+* The LFFL rookie draft is 2 rounds long:  Each round has 6 picks.
 * Each manager starts with one pick per round; however, this can change as a result of trades.
 * I have the 1st and 11th picks in the 2025 LFFL Veteran Draft.
 * The other managers in the league have a tendancy to draft players from Ohio State.
- 
 
 ## My Draft Preferences
 * I always look at the data in `2025-my-active-roster.csv` to identify areas of need.  To do this, I:
