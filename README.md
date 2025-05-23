@@ -35,11 +35,18 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
 * Each team starts two QBs, 3 WRs, 3 RBs, 2 TE, 3 Flex, 1 K, and 1 DST each week.
 * Each team can have up to five rookies on their taxi squad.
 
-## LFFL Draft Format
+## LFFL Rookie Draft Format
 * The LFFL rookie draft is 4 rounds long.
 * Each manager starts with one pick per round; however, this can change as a result of trades.
-* I have the 5th, 7th, 17th, and 20th picks in the 2025 LFFL Draft.
+* I have the 5th, 7th, 17th, and 20th picks in the 2025 LFFL Rookie Draft.
 * The other managers in the league have a tendancy to draft players from Ohio State.
+
+## LFFL Veteran Draft Format
+* The LFFL rookie draft is 2 rounds long.
+* Each manager starts with one pick per round; however, this can change as a result of trades.
+* I have the 1st and 11th picks in the 2025 LFFL Veteran Draft.
+* The other managers in the league have a tendancy to draft players from Ohio State.
+ 
 
 ## My Draft Preferences
 * I always look at the data in `2025-my-active-roster.csv` to identify areas of need.  To do this, I:
@@ -47,8 +54,9 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
   * I first identify positions where I don't have enough highly ranked players for my starting roster.
   * Then I look for areas where I have large gaps in ranking.  For example, at WR I have a large gap between Cooper Kupp and Josh Downs.  At TE, I have a large gap between Mark Andrews and Pat Freiermuth.
 * Once I know my areas of need, I look at the best players at those positions that might be available when I make my picks.
-* If there is a very good or sleeper RB available, I may ignore my area of need and take that player.
-* With my last pick I like to look for a sleeper pick.
+* If there is a very good or sleeper RB available in the rookie draft, I may ignore my area of need and take that player.
+* With my last rookie pick I like to look for a sleeper pick.
+* This year I am leaning towards taking a good veteran WR with my first pick in the veteran draft.  When determining rookie draft pick recommendations, this should be taken into account.
 
 ## Description of files in the repository
 `2025-available-2025-05-23-all.csv`
