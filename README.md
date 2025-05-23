@@ -50,6 +50,11 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
 * With my last pick I like to look for a sleeper pick.
 
 ## Description of files in the repository
+`2025-available-all.csv`
+* This file contains a list of the top 160 players available for draft in both the rookie and veteran drafts
+* The player rankings are based on ADP as of 05/23/2025
+* Both veterans and rookies are included meaning this file can be used to get a good idea of the how a rookie ranks against the available veterans
+
 `2025-my-active-roster.csv`
 * This file contains a breakdown of my team.  The players are ranked by dynasty value.
 * This file should be used as a basis when making decisions about who I should draft.
