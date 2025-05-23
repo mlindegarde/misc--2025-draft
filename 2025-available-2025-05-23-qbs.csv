@@ -1,48 +1,69 @@
-Player,ADP,Bye,NEWS / NOTES
-Dak Prescott (DAL - BYE: 10),13,10,"Dak Prescott (hamstring) practices fully at OTAs »"
-Cameron Ward (TEN - BYE: 10),27,10,"Cameron Ward signs rookie contract with Titans »"
-Jaxson Dart (NYG - BYE: 14),31,14,"Jaxson Dart expected to sit entire rookie year 'if all goes well' »"
-Jalen Milroe (SEA - BYE: 8),36,8,"Jalen Milroe signs rookie contract with Seahawks »"
-Russell Wilson (NYG - BYE: 14),29,14,"Russell Wilson locks in as Giants Week 1 starter »"
-Daniel Jones (IND - BYE: 11),35,11,""
-Shedeur Sanders (CLE - BYE: 9),33,9,"Shedeur Sanders signs rookie contract with Browns »"
-Aaron Rodgers (FA),30,,"Aaron Rodgers: Steelers to wait 'a little longer' »"
-Tyler Shough (NO - BYE: 11),32,11,"Tyler Shough rotating with first-team in OTAs »"
-Will Levis (TEN - BYE: 10),,10,""
-Kirk Cousins (ATL - BYE: 5),38,5,""
-Quinn Ewers (MIA - BYE: 12),,12,"Quinn Ewers signs rookie contract with Dolphins »"
-Will Howard (PIT - BYE: 5),42,5,""
-Aidan O'Connell (LV - BYE: 8),39,8,""
-Spencer Rattler (NO - BYE: 11),40,11,"Spencer Rattler steps up in Saints OTAs »"
-Mason Rudolph (PIT - BYE: 5),34,5,""
-Deshaun Watson (CLE - BYE: 9),,9,"Deshaun Watson out of walking boot, progresses to throwing »"
-Dillon Gabriel (CLE - BYE: 9),,9,""
-Joe Flacco (CLE - BYE: 9),37,9,""
-Joe Milton III (DAL - BYE: 10),,10,""
-Kenny Pickett (CLE - BYE: 9),41,9,""
-Mac Jones (SF - BYE: 14),,14,""
-Malik Willis (GB - BYE: 5),,5,""
-Sam Howell (MIN - BYE: 6),,6,""
-Gardner Minshew II (KC - BYE: 10),,10,""
-Riley Leonard (IND - BYE: 11),,11,""
-Kyle McCord (PHI - BYE: 9),,9,""
-Trey Lance (LAC - BYE: 12),,12,""
-Zach Wilson (MIA - BYE: 12),,12,""
-Jacoby Brissett (ARI - BYE: 8),,8,""
-Jimmy Garoppolo (LAR - BYE: 8),,8,""
-Hendon Hooker (DET - BYE: 8),,8,""
-Jake Browning (CIN - BYE: 10),,10,""
-Cooper Rush (BAL - BYE: 7),,7,""
-Andy Dalton (CAR - BYE: 14),,14,""
-Drew Lock (SEA - BYE: 8),,8,""
-Marcus Mariota (WAS - BYE: 12),,12,""
-Tyrod Taylor (NYJ - BYE: 9),,9,""
-Jarrett Stidham (DEN - BYE: 12),,12,""
-Joshua Dobbs (NE - BYE: 14),,14,""
-Kurtis Rourke (SF - BYE: 14),,14,""
-Tyson Bagent (CHI - BYE: 5),,5,""
-Dorian Thompson-Robinson (PHI - BYE: 9),,9,""
-Mitchell Trubisky (BUF - BYE: 7),,7,""
-Davis Mills (HOU - BYE: 6),,6,""
-Nick Mullens (JAC - BYE: 8),,8,""
-Jake Haener (NO - BYE: 11),,11,"Jake Haener (oblique) will miss 'a couple of weeks' »"
+Position,ECR,Player,ADP,Bye,News / Notes
+QB,19,Dak Prescott(DAL - BYE: 10),13,10,Dak Prescott (hamstring) practices fully at OTAs »
+QB,20,Cameron Ward(TEN - BYE: 10),27,10,Cameron Ward signs rookie contract with Titans »
+QB,24,Justin Fields(NYJ - BYE: 9),15,9,
+QB,27,Jaxson Dart(NYG - BYE: 14),31,14,Jaxson Dart expected to sit entire rookie year 'if all goes well' »
+QB,30,Jalen Milroe(SEA - BYE: 8),36,8,Jalen Milroe signs rookie contract with Seahawks »
+QB,31,Russell Wilson(NYG - BYE: 14),29,14,Russell Wilson locks in as Giants Week 1 starter »
+QB,32,Daniel Jones(IND - BYE: 11),35,11,
+QB,33,Shedeur Sanders(CLE - BYE: 9),33,9,Shedeur Sanders signs rookie contract with Browns »
+QB,34,Aaron Rodgers(FA),30,,Aaron Rodgers: Steelers to wait 'a little longer' »
+QB,35,Tyler Shough(NO - BYE: 11),32,11,Tyler Shough rotating with first-team in OTAs »
+QB,36,Will Levis(TEN - BYE: 10),,10,
+QB,37,Kirk Cousins(ATL - BYE: 5),38,5,
+QB,38,Quinn Ewers(MIA - BYE: 12),,12,Quinn Ewers signs rookie contract with Dolphins »
+QB,40,Will Howard(PIT - BYE: 5),42,5,
+QB,41,Aidan O'Connell(LV - BYE: 8),39,8,
+QB,42,Spencer Rattler(NO - BYE: 11),40,11,Spencer Rattler steps up in Saints OTAs »
+QB,43,Mason Rudolph(PIT - BYE: 5),34,5,
+QB,44,Deshaun Watson(CLE - BYE: 9),,9,"Deshaun Watson out of walking boot, progresses to throwing »"
+QB,45,Dillon Gabriel(CLE - BYE: 9),,9,
+QB,46,Joe Flacco(CLE - BYE: 9),37,9,
+QB,47,Joe Milton III(DAL - BYE: 10),,10,
+QB,48,Kenny Pickett(CLE - BYE: 9),41,9,
+QB,49,Mac Jones(SF - BYE: 14),,14,
+QB,50,Malik Willis(GB - BYE: 5),,5,
+QB,51,Sam Howell(MIN - BYE: 6),,6,
+QB,52,Gardner Minshew II(KC - BYE: 10),,10,
+QB,53,Riley Leonard(IND - BYE: 11),,11,
+QB,54,Kyle McCord(PHI - BYE: 9),,9,
+QB,55,Trey Lance(LAC - BYE: 12),,12,
+QB,56,Zach Wilson(MIA - BYE: 12),,12,
+QB,57,Jacoby Brissett(ARI - BYE: 8),,8,
+QB,58,Jimmy Garoppolo(LAR - BYE: 8),,8,
+QB,59,Hendon Hooker(DET - BYE: 8),,8,
+QB,60,Jake Browning(CIN - BYE: 10),,10,
+QB,61,Cooper Rush(BAL - BYE: 7),,7,
+QB,62,Andy Dalton(CAR - BYE: 14),,14,
+QB,63,Drew Lock(SEA - BYE: 8),,8,
+QB,64,Marcus Mariota(WAS - BYE: 12),,12,
+QB,65,Tyrod Taylor(NYJ - BYE: 9),,9,
+QB,66,Jarrett Stidham(DEN - BYE: 12),,12,
+QB,67,Joshua Dobbs(NE - BYE: 14),,14,
+QB,68,Kurtis Rourke(SF - BYE: 14),,14,
+QB,69,Tyson Bagent(CHI - BYE: 5),,5,
+QB,70,Dorian Thompson-Robinson(PHI - BYE: 9),,9,
+QB,71,Mitchell Trubisky(BUF - BYE: 7),,7,
+QB,72,Desmond Ridder(FA),,,
+QB,73,Davis Mills(HOU - BYE: 6),,6,
+QB,74,Nick Mullens(JAC - BYE: 8),,8,
+QB,75,Jake Haener(NO - BYE: 11),,11,Jake Haener (oblique) will miss 'a couple of weeks' »
+QB,77,Bailey Zappe(KC - BYE: 10),,10,
+QB,78,Taylor Heinicke(LAC - BYE: 12),,12,
+QB,79,Stetson Bennett(LAR - BYE: 8),,8,
+QB,80,Kyle Trask(TB - BYE: 9),,9,
+QB,81,Tommy DeVito(NYG - BYE: 14),,14,
+QB,82,Tanner McKee(PHI - BYE: 9),,9,
+QB,83,Carson Wentz(FA),,,
+QB,84,Clayton Tune(ARI - BYE: 8),,8,
+QB,88,Jaren Hall(FA),,,
+QB,90,Michael Pratt(TB - BYE: 9),,9,
+QB,92,Seth Henigan(JAC - BYE: 8),,8,
+QB,94,Skylar Thompson(PIT - BYE: 5),,5,
+QB,97,Devin Leary(BAL - BYE: 7),,7,
+QB,99,Shane Buechele(BUF - BYE: 7),,7,
+QB,101,Jordan Travis(FA),,,
+QB,103,Case Keenum(CHI - BYE: 5),,5,
+QB,110,Teddy Bridgewater(FA),,,
+QB,119,Trevor Siemian(FA),,,
+QB,123,Matt Corral(FA),,,
