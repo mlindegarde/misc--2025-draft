@@ -4,7 +4,7 @@
 When doing any sort of analysis, always follow these general rules:
 1. Any analysis should be done from a dynasty perspective:  Not a redraft league perspective.  Rookies have a much higher priority in the rookie draft.
 2. `2025-my-active-roster.csv` should be used to learn about my current team roster.
-3. `2025-fantasy-pros-rookie-rankings.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.  For example, Ashton Jeanty and Omarion Hamption are listed as the top two picks.  It is not likely they will still be present when it is my turn to pick.
+3. `2025-fantasy-pros-rookie-rankings--2025-06-24.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.  For example, Ashton Jeanty and Omarion Hamption are listed as the top two picks.  It is not likely they will still be present when it is my turn to pick.
 4. Also look at `2025-available-2025-05-23-all.csv` to determine at one place in the rookie draft a player might get selected.
 5. Use `2025-mel-kiper -1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `2025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv` by aggregating the data and taking into consideration the delta between the aggregated data and the suggest ranking in `2025-fantasy-pros-rookie-rankings.csv`.
 6. Use the notes column from `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to understand the reasoning behind the pick.  This information should be strongly considered when identifying the potential fantasy impact a player might have.
@@ -24,6 +24,9 @@ When doing any sort of analysis, always follow these general rules:
 * K - This means "kicker".  This position should be ignored for any analysis.
 * DST - This means "defense and special teams".  This position should be ignored for any analysis.
 * Taxi Squad - A portion of the team that can hold rookies for up to three years.  These players cannot be used as starters.
+* ECR - Expert consensus ranking (an average of all rankings by fantasy football experts)
+* ADP - Average draft position (the average of the position the player is being drafted across all league drafts)
+* ECR vs. ADP - A metric that shows how the average manager sentiment towards a given player differs from that of experts.  A negative number indicates that managers don't value a player as highly as the experts while a positive number indicates that managers see more value in a given player than the experts do.  This can be helpful will determining where players might actually end up going in a draft and for identifying potential sleepers.
 
 ## Positions
 Fantasy football does not value players the same way the real NFL does.  Fantasy football only cares about the following positions:  All other can be ignored:
@@ -83,7 +86,7 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
   * K - FantasyPros overall ranking for the player
   * L - FantasyPros tier for that player for their specific position
 
-`2025-fantasy-pros-rookie-rankings.csv`
+`2025-fantasy-pros-rookie-rankings--2025-04-24.csv`
 * This file contains an ordered ranking of the rookies available in the 2025 NFL draft from a dynasty fantasy football perspective.
 * Column Details
   * A - Overall dynasty fantasy football rank for 2025 drafts
@@ -93,6 +96,19 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
   * E - Lowest possible draft position
   * F - Average draft position
   * G - Standard deviation
+* All data in a given row relates to the player identified in column `B`.
+
+`2025-fantasy-pros-rookie-rankings--2025-06-20.csv`
+* This is an updated version of the above file.  It contains the same data, but with updated rakings.
+* Column Details
+  * A - Overall dynasty fantasy football rank for 2025 drafts
+  * B - Player name
+  * C - Position the player plays
+  * D - Highest possible draft position
+  * E - Lowest possible draft position
+  * F - Average draft position
+  * G - Standard deviation
+  * H - ECR vs ADP
 * All data in a given row relates to the player identified in column `B`.
 
 `2025-mel-kiper -1st-round.csv`
