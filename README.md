@@ -5,9 +5,9 @@ When doing any sort of analysis, always follow these general rules:
 1. Any analysis should be done from a dynasty perspective:  Not a redraft league perspective.  Rookies have a much higher priority in the rookie draft.
 2. `2025-my-active-roster.csv` should be used to learn about my current team roster.
 3. `2025-fantasy-pros-rookie-rankings--2025-06-24.csv` should always be used to determine the most probable draft position for each player in the LFFL draft.  For example, Ashton Jeanty and Omarion Hamption are listed as the top two picks.  It is not likely they will still be present when it is my turn to pick.
-4. Also look at `2025-available-2025-05-23-all.csv` to determine at one place in the rookie draft a player might get selected.  Also take into account `2025-06-27--updated-rookie-rankings--advice-clean.csv`
+4. Also look at `2025-available-2025-05-23-all.csv` to determine at one place in the rookie draft a player might get selected.  Also take into account `2025-06-27--updated-rookie-rankings--advice.csv`
 5. Use `2025-mel-kiper-1st-round.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `2025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to determine how actual draft position might rise or fall from the order provided in `2025-fantasy-pros-rookie-rankings.csv` by aggregating the data and taking into consideration the delta between the aggregated data and the suggest ranking in `2025-fantasy-pros-rookie-rankings.csv`.
-6. Use the notes column from `2025-06-27--updated-rookie-rankings--advice-clean.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to understand the reasoning behind the pick.  This information should be strongly considered when identifying the potential fantasy impact a player might have.
+6. Use the notes column from `2025-06-27--updated-rookie-rankings--advice.csv`, `2025-nfl-dot-com-1st-round.csv`, `2025-pff-1st-round.csv`, `025-fantasy-pros-1st-round-with-trades.csv`, and `2025-pff-7-rounds.csv` to understand the reasoning behind the pick.  This information should be strongly considered when identifying the potential fantasy impact a player might have.
 7. Use `2025-pff-7-rounds.csv` when looking for picks beyond the first round.
 8. Use `2025-available-2025-05-23-all.csv` to see how any rookie suggestion compares to the available veterans
 9. Reference the `Glossary` section below to identify unknown terms
@@ -112,7 +112,7 @@ Fantasy football does not value players the same way the real NFL does.  Fantasy
   * 8 - ECR vs ADP
 * All data in a given row relates to the player identified in column `2`.
 
-`2025-06-27--updated-rookie-rankings--advice-clean.csv`
+`2025-06-27--updated-rookie-rankings--advice.csv`
 * This is an updated version of the above file.  It contains the same data, but with updated rakings and some very important notes for most players from a dynasty perspective.  Strongly consider the data in this file when analyzing players to pick.
 * Column Details
   * 1 - Overall dynasty fantasy football rank for 2025 drafts
